@@ -23,4 +23,4 @@ quit - to quit
     elif command == "quit":
         break
 else:
-    print(" sorry,i don't understand that...")
+    print(" oops! ..")
